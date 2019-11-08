@@ -1,0 +1,25 @@
+<style>
+  h3 {
+    text-decoration: underline;
+  }
+
+  body {
+    background-color: #d4d7d0;
+  }
+
+  table {
+    background-color: #a7cbeb;
+  }
+
+  hr {
+    width: 30%;
+    text-align: left;
+    margin-left: 0;
+  /*  border-style:  none   ; --> */
+  /*   border-top-style: dotted;  */
+    border-style: dotted none none none;
+    border-color: blue ;
+    border-width: 10px ;
+  }
+.table_border {border: outset  red ; background: #a7cbeb ;}  
+</style>
