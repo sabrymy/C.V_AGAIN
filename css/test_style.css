@@ -9,7 +9,7 @@ caption {font-weight: bold; font-size: 30px; color: brown ;}
 .table_colllapse {border-style: outset;;  }
 .table_seperate { margin-top: 30px; padding: 5px;  display:inline-block; width:47%; text-align: left; border-collapse: collapse;
  height:300px; overflow-y: auto;}
-.table_v2 { padding: 5px; bottom: 80px; display:inline-block; width:47%; text-align: left; position: relative;
+.table_v2 { padding: 5px; bottom: 82px; display:inline-block; width:47%; text-align: left; position: relative;
  text-align: left; border-collapse: collapse; }
 th, td {border: 2px inset #66BFBF ; padding: 0 5px 5px 10px;}
  tbody_a { height:300px; overflow-y:scroll; display:block; }
